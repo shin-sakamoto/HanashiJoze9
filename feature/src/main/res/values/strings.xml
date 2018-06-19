@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HanashiJoze</string>
+
+    <string name="play_start">Start</string>
+    <string name="play_repeat">Repeat</string>
+    <string name="play_stop">Stop</string>
+
+    <string name="action_settings">Config and select sound file</string>
+
+    <string name="autoRepeat">Repeat same sound</string>
+    <string name="autoContinue">Auto Continue to next nearest sound file</string>
+    <string name="initial">Reset to default configuration</string>
+
+    <string name="imgSelected">Image file</string>
+    <string name="imgFilename">Image filename</string>
+    <string name="positionSelected">The point you selected</string>
+    <string name="filenameSelected">Sound filename</string>
+    <string name="positionNearest">The nearest point with sound file</string>
+    <string name="filenameNearest">Sound filename of the nearest poing</string>
+
+    <string name="loadConfiguration">Load Configuration</string>
+    <string name="saveConfiguration">Save Configuration</string>
+    <string name="removeConfiguration">Remove Configuration</string>
+
+    <string name="message_init">All configuration will be initialized</string>
+
+</resources>
